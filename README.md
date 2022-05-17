@@ -1,4 +1,4 @@
-# ReactivAssets
-This repository contains all the assets and design systems that are used in Reactiv.
+# Amelia
+Reactiv's Design System Repository
 
 ![preview](preview/amelia.svg)
