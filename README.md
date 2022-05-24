@@ -1,5 +1,5 @@
 # Amelia
 Reactiv's Design System Repository
 
-![preview](preview/amelia.svg)
+![Amelia](preview/ameliabanner.svg)
 ![preview](preview/apppreview.svg)
