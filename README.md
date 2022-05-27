@@ -6,3 +6,8 @@ Reactiv's Design System Repository
 ### [Reactiv](Reactiv "Reactiv") 
 ### [Reactiv Console](ReactivConsole "Reactiv Connsole") 
 ![preview](preview/reactivpreview.svg)
+
+```text
+Our Goal
+
+```
