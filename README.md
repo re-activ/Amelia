@@ -5,4 +5,4 @@ Reactiv's Design System Repository
 ## The two products of Reactiv :
 ### [Reactiv](Reactiv "Reactiv") 
 ### [Reactiv Console](ReactivConsole "Reactiv Connsole") 
-![preview](preview/apppreview.svg)
+![preview](preview/reactivpreview.svg)
