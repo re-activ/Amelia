@@ -1,5 +1,7 @@
 # Amelia
+```text
 Reactiv's Design System Repository
+```
 
 ![Amelia](preview/ameliabanner.svg)
 ## The two products of Reactiv :
@@ -7,7 +9,4 @@ Reactiv's Design System Repository
 ### [Reactiv Console](ReactivConsole "Reactiv Connsole") 
 ![preview](preview/reactivpreview.svg)
 
-```text
-Our Goal
 
-```
