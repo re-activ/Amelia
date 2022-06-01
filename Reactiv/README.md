@@ -1,1 +1,1 @@
-![Reactiv](reactiv/reactivbanner.svg)
+![Reactiv](reactivbanner.svg)
